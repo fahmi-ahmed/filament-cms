@@ -35,6 +35,10 @@
         {
             "name": "Fady Mondy",
             "email": "info@3x1.io"
+        },
+        {
+            "name": "Fahmi Ahmed",
+            "email": "fahmi24633@gmail.com"
         }
     ],
     "minimum-stability": "stable",
