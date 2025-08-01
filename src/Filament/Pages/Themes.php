@@ -23,6 +23,8 @@ class Themes extends Page implements HasTable
 
     protected static ?string $navigationIcon = 'heroicon-o-swatch';
 
+    protected static ?string $slug = 'cms-themes';
+
     protected static string $view = 'filament-cms::pages.themes';
 
     public function getTitle(): string
